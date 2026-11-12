@@ -18,21 +18,19 @@
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=gowdadishanth&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## ⚡ whoami
+## ⚡ Who Am I
 
 ```typescript
-const gowdadishanth: Developer = {
-  name:      "gowdadishanth",
+const dishanth: Developer = {
+  name:      "Dishanth P I",
   role:      "Frontend or full-stack engineer",
-  location:  "Building from the open web",
+  location:  "Bengaluru, India · Building for the open web",
   currently: "building in public",
-  stack:     ["Python", "TypeScript", "JavaScript", "CSS", "Batchfile", "HTML"],
+  stack:     ["Python", "TypeScript", "JavaScript", "React", "FastAPI", "Docker"],
   mantra:    "Make useful things, then make them delightful 🚀",
 };
 ```
 
-> Frontend or full-stack engineer
-> 
 > **Collaborations welcome when they are meaningful 🤝**
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=gowdadishanth&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
