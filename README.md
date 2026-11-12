@@ -111,12 +111,6 @@ Personal portfolio — Dishanth P I | AI &amp; Data Science Engineer
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=gowdadishanth&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=gowdadishanth&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F263443184%3Fu%3D28594b176ed3d696e65fbd6be13382e23d35804e%26v%3D4" alt="gowdadishanth heatmap visual" />
-</p>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=gowdadishanth&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
 ## 🏆 Beyond the Code
 
 * 🧠 **Profile signal:** 29 contributions in the last year
